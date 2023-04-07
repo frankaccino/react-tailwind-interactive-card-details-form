@@ -385,9 +385,3 @@ body::after {
 
 
 /* Tailwind */
-
-@layer components {
-  .sumsum {
-    @apply h-0;
-  }
-}
